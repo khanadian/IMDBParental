@@ -1,2 +1,2 @@
 # IMDBParental
-filters IMDB by parental guide
+scrapes IMDB top/most popular shows for parental guide
